@@ -1,4 +1,4 @@
-function sayHello(name){
+function sayHelloTo(name){
     alert("Hello, "+myupper(name));
 }
 
